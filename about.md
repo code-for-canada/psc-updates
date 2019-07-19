@@ -9,13 +9,13 @@ We are the Cohort II Code for Canada fellowship team working with the Public Ser
 ### Contact the fellows
 
 Siobhan Özege: Product Manager
- - email: [siobhan@codefor.ca](mailto:siobhan@codefor.ca)
- - twitter: [@sigh__oh](https://twitter.com/sigh__oh)
+ - Email: [siobhan@codefor.ca](mailto:siobhan@codefor.ca)
+ - Twitter: [@sigh__oh](https://twitter.com/sigh__oh)
 
 Caley Brock: Developer
- - email: [caley@codefor.ca](mailto:caley@codefor.ca)
- - twitter: [@calesbrock](https://twitter.com/calesbrock)
+ - Email: [caley@codefor.ca](mailto:caley@codefor.ca)
+ - Twitter: [@calesbrock](https://twitter.com/calesbrock)
 
 Joey Hua: User Experience Designer
- - email: [joey@codefor.ca](mailto:joey@codefor.ca)
- - twitter: [@huaajoey](https://twitter.com/huaajoey)
+ - Email: [joey@codefor.ca](mailto:joey@codefor.ca)
+ - Twitter: [@huaajoey](https://twitter.com/huaajoey)
