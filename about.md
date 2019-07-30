@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-We are the Cohort II Code for Canada fellowship team working with the Public Service Commission of Canada in Gatineau, Quebec between October 2018 - August 2019. We have an incredible opportunity to help build a product that will directly impact what the federal public service looks like. This site is where we're posting our project updates.
+We are the Cohort II Code for Canada fellowship team working with the Public Service Commission of Canada in Gatineau, Quebec between October 2018 - August 2019. We have an incredible opportunity to help build a product that will directly impact what the federal public service looks like. This site is where we're posting our project updates and what we learn along the way.
 
 ### Contact the fellows
 
